@@ -3,8 +3,8 @@
 namespace Mrdth\LaravelValidationErrorLogger\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Mrdth\LaravelValidationErrorLogger\LaravelValidationErrorLoggerServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
